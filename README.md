@@ -1,4 +1,4 @@
-[![MasterHead](https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif)]
+[![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)]
 <h1 align="center">Hi 👋, I'm Dumisani Magagula</h1>
 <h3 align="center">A passionate Business Intelligence from South Africa</h3>
 <img align="right" alt="Coding" width="1000" src="https://www.olivesofts.com/images/power-bi.gif">
