@@ -1,4 +1,4 @@
-[![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)]
+[![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)](https://dumisanimagagula.github.io)
 <h1 align="center">Hi 👋, I'm Dumisani Magagula</h1>
 <h3 align="center">A passionate Business Intelligence from South Africa</h3>
 <img align="right" alt="Coding" width="1000" src="https://www.olivesofts.com/images/power-bi.gif">
