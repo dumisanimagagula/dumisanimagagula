@@ -14,15 +14,12 @@
 
 - 🌱 I’m currently learning **Python,SQL**
 
-- 👯 I’m looking to collaborate on **BI Projects**
+- 👯 I’m looking to collaborate on **Data & Software Engineering Projects**
 
-- 💬 Ask me about **Power BI, Google Data Studio and Google Sheets**
-
-- 📫 How to reach me **dumsaneemmanuel98@gmail.com**
+- 💬 Ask me about **SQL, Python, Scala, Data Visualization**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dumisanimagagula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dumisanimagagula" height="30" width="40" /></a>
 <a href="https://twitter.com/dumisanmagagula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dumisanmagagula" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dumisanii-emmanuel-magagula-120268144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dumisanii-emmanuel-magagula-120268144" height="30" width="40" /></a>
 </p>
