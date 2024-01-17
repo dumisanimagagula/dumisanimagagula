@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/dumisanmagagula" target="blank"><img src="https://img.shields.io/twitter/follow/dumisanmagagula?logo=twitter&style=for-the-badge" alt="dumisanmagagula" /></a> </p>
 
-## About me
+<h2 align="left" style="font-size: 24px; margin-bottom: 20px;">About Me</h2>
 
 <picture> <img align="right" src="pcdesk.gif" width = 240px></picture>
 
@@ -29,14 +29,16 @@
 ## Connect with me
 
 <div>
-    <a href="https://twitter.com/dumisanmagagula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dumisanmagagula" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/dumisanimagagula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dumisanii-emmanuel-magagula-120268144" height="30" width="40" /></a>
+    <p align="left"><a href="https://twitter.com/dumisanmagagula" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dumisanmagagula" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/dumisanimagagula/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dumisanii-emmanuel-magagula-120268144" height="30" width="40" /></a>
     </p>
 </div>
 
 ## Languages and Tools
 
-<div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(40px, 1fr)); gap: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://www.r-project.org/logo/Rlogo.svg" width="40" height="40"/>&nbsp;
@@ -90,7 +92,7 @@
 </div>
 
 ## GitHub Trophies
-<div>
+<div align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dumisanimagagula" alt="dumisanimagagula" /></a> </p>
 </div>
 
