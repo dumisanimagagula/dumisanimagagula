@@ -32,7 +32,7 @@ log/wp-content/uploads/2020/07/GIF-blog.gif)](https://dumisanimagagula.github.io
 
 <div>
     <a href="https://twitter.com/dumisanmagagula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dumisanmagagula" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/dumisanii-emmanuel-magagula-120268144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dumisanii-emmanuel-magagula-120268144" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/dumisanimagagula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dumisanii-emmanuel-magagula-120268144" height="30" width="40" /></a>
     </p>
 </div>
 
