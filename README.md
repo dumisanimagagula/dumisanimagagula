@@ -1,5 +1,3 @@
-log/wp-content/uploads/2020/07/GIF-blog.gif)](https://dumisanimagagula.github.io)
-
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;"> Hello World!👋 I'm Dumisani Magagula</h1>
 
 
