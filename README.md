@@ -1,6 +1,6 @@
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">👋 Hello World! I'm Dumisani Magagula</h1>
 
-<h3 align="center">🚀 Empowering Businesses with Data-Driven Solutions 📊</h3>
+<h3 align="center">🚀 Building Scalable Data Systems | Turning Raw Data into Insights 📊</h3>
 <p align="center">
    <img src="laptopoutsidewid.gif" height="250" width="600" alt="Data Enthusiast Working"/>
 </p>
@@ -20,12 +20,12 @@
    <img align="right" src="pcdesk.gif" width="240px" alt="Working on PC"/>
 </picture>
 
-- 🔭 **Currently Working On:** Building a robust data portfolio to showcase my skills.
-- 🌱 **Learning Journey:** Expanding my expertise in **Python**, **SQL**, and advanced data engineering tools.
-- 👯 **Collaboration:** Open to projects in **Data Visualization**, **ETL Development**, and **Data Engineering**.
-- 💬 **Ask Me About:** SQL, Python, ETL processes, Data Engineering, and Visualization tools.
-- ✨ **Passionate About:** Solving real-world problems using data and cutting-edge technologies.
-- 🚀 **Motivated By:** Continuous learning and staying ahead of industry trends.
+- 🔭 **Currently Working On:** Building a **data engineering portfolio** with projects in ETL, pipelines, and real-time systems.  
+- 🌱 **Learning Journey:** Expanding expertise in **Python, SQL, Spark, Kafka**, and **cloud data platforms (GCP, AWS, Azure)**.  
+- 👯 **Collaboration:** Open to projects in **Data Engineering, ETL Development, and Data Visualization**.  
+- 💬 **Ask Me About:** **Pipeline optimization, SQL best practices, and cloud-native data architectures**.  
+- ✨ **Passionate About:** Designing **scalable, cost-effective, and reliable systems** to solve real-world problems.  
+- 🚀 **Motivated By:** **Continuous learning, ownership-driven systems, and industry-leading practices**.
 
 ---
 
@@ -42,23 +42,34 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack  
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
-   <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-   <img src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" alt="Tableau" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-   <img src="https://cdn.stepik.net/media/cache/images/courses/99527/cover_OII2ekI/aad9c923a6df720a4efd8fefa3c4c908.png" alt="Apache Airflow" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</div>
+**Programming & Data**  
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)   
+
+**Data Engineering**  
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)  
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)  
+![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
+
+**Visualization**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)  
+
+**Machine Learning**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)  
 
 ---
 
@@ -79,5 +90,6 @@
 
 ---
 
-### 🚀 Let’s Create Something Amazing Together!
-Feel free to reach out for collaborations or just to connect. Together, let’s transform data into actionable insights!
+### 🌟 Let’s Build Something Great  
+📩 Reach out for collaborations, opportunities, or just to connect.  
+🔗 Let’s transform **data into impact** together!
